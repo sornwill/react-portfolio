@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Eat Safe",
+        "url": "https://github.com/sornwill/eatsafe",
+        "deployURL": "https://sornwill.github.io/eatsafe/",
+        "img": "/assets/project-images/eatsafe.png"
+    },
+    {
+        "id": 2,
+        "name": "Songwriter's Lament",
+        "url": "https://github.com/schoess/Songwriters_Lament",
+        "deployURL": "https://project-2-schoess.herokuapp.com/",
+        "img": "/assets/project-images/songwriters.png"
+    },
+    {
+        "id": 3,
+        "name": "Code Quiz",
+        "url": "https://github.com/sornwill/codequiz",
+        "deployURL": "https://sornwill.github.io/codequiz/",
+        "img": "/assets/project-images/quiz.png"
+    },
+    {
+        "id": 4,
+        "name": "Directory",
+        "url": "https://github.com/sornwill/directory",
+        "deployURL": "https://ws-directory.herokuapp.com/",
+        "img": "/assets/project-images/directory.png"
+    },
+    {
+        "id": 5,
+        "name": "Weather Dashboard",
+        "url": "https://github.com/sornwill/weatherdata",
+        "deployURL": "https://sornwill.github.io/weatherdata/",
+        "img": "/assets/project-images/weather.png"
+    },
+    {
+        "id": 6,
+        "name": "Note Taker",
+        "url": "https://github.com/sornwill/note-taker",
+        "deployURL": "https://frozen-ridge-30974.herokuapp.com/",
+        "img": "/assets/project-images/notetaker.png"
+    }
+]
